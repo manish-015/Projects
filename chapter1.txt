@@ -1,0 +1,1 @@
+This chapter is about Home Page of our project.There are three section in home page Header, Body ,Footer.
